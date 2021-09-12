@@ -11,8 +11,8 @@ except ImportError:
 	pass
 
 # internal parameters
-from . import params
-#import params
+#from . import params
+import params
 
 import os, sys
 import random
