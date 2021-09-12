@@ -1,1 +1,4 @@
 colorama
+# These are really required - but are used for demonstration purposes
+pandas
+flask
