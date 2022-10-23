@@ -1,4 +1,4 @@
-FROM python:3.9.7-buster
+FROM python:3.9.15-slim-bullseye
 
 RUN mkdir /app
 WORKDIR /app
