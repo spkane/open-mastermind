@@ -1,4 +1,4 @@
 colorama
-# These are not really required - but are used for demonstration purposes
+# These are not required - but are used for demonstration purposes
 pandas
 flask
